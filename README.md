@@ -1,4 +1,4 @@
-Loan Approval Prediction Using Machine Learning
+Bank Personal Loan Modelling (Loan Approval) Prediction Using Machine Learning
 
 📌 Project Overview
 
