@@ -2,11 +2,11 @@ Loan Approval Prediction Using Machine Learning
 
 📌 Project Overview
 
-    This project focuses on predicting loan approval status using machine learning algorithms. By analyzing customer attributes such as credit score, income, age, marital       status, employment history, and debt-to-income ratio, the model determines whether a customer is likely to repay the loan. This system helps financial institutions          minimize risk, reduce processing time, and improve decision accuracy compared to traditional manual reviews.
+This project focuses on predicting loan approval status using machine learning algorithms. By analyzing customer attributes such as credit score, income, age, marital       status, employment history, and debt-to-income ratio, the model determines whether a customer is likely to repay the loan. This system helps financial institutions          minimize risk, reduce processing time, and improve decision accuracy compared to traditional manual reviews.
 
 🎯 Objective
 
-    To build a machine learning model that predicts whether a customer is eligible for a personal loan approval based on historical customer data and financial attributes.
+To build a machine learning model that predicts whether a customer is eligible for a personal loan approval based on historical customer data and financial attributes.
 
 🔍 Key Parameters
 
