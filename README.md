@@ -73,6 +73,18 @@ The best-performing model is selected based on these metrics.
 
     * Support Vector Machine (SVM)
 
+    
+
+| Model                        | Type                      | Description                                             | Accuracy (%)  |
+| ---------------------------- | ------------------------- | ------------------------------------------------------- | ------------- |
+| Logistic Regression          | Linear Classification     | Uses a logistic function to model binary outcomes       | 85% (example) |
+| Linear Regression            | Regression                | Predicts continuous values using a linear relationship  | 80% (example) |
+| Decision Tree                | Non-linear Classification | Splits data into branches based on feature conditions   | 88% (example) |
+| **Random Forest**            | Ensemble Learning         | Combines multiple decision trees to improve performance | **95%** ✅     |
+| Naive Bayes                  | Probabilistic Model       | Based on Bayes' theorem with independence assumptions   | 82% (example) |
+| Support Vector Machine (SVM) | Margin-based Classifier   | Finds optimal hyperplane to separate classes            | 90% (example) |
+
+
 
 
 🛠️ Technologies Used
