@@ -100,3 +100,7 @@ Libraries:
     * Loan status (Approved / Denied)
 
     * Cleaned and preprocessed before training
+
+Conclusion
+
+The Random Forest model achieved 95% accuracy, demonstrating strong predictive performance and effective handling of complex data patterns. Its ensemble approach improved generalization and reduced overfitting. While the results are promising, additional metrics like precision, recall, and F1-score should be considered for a more complete evaluation. Overall, the model proves to be a reliable and efficient choice for this task.
